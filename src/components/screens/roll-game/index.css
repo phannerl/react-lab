@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Arvo:ital@1&family=Bungee+Spice&display=swap");
+
+.roll-game__bg {
+  background: rgb(136, 34, 88);
+  background: linear-gradient(
+    344deg,
+    rgba(136, 34, 88, 1) 0%,
+    rgba(18, 14, 79, 1) 41%,
+    rgba(9, 121, 76, 1) 66%,
+    rgba(3, 135, 204, 1) 81%,
+    rgba(0, 212, 255, 1) 97%
+  );
+}
+.roll-game__title {
+  font-family: "Arvo", serif;
+  font-family: "Bungee Spice", cursive;
+}

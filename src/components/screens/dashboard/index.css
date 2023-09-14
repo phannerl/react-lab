@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Arvo:ital@1&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dboard__bg {
+  background-color: rgb(63, 61, 59);
+  font-family: "Arvo", serif;
+}
+.dboard__header {
+  padding: 30px 0;
+  border-bottom: 2px solid black;
+}
+
+.dboard__header-main {
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  width: 20%;
+}
